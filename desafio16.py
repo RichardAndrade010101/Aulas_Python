@@ -1,4 +1,4 @@
-# Solicitar um número do usuário
+Solicitar um número do usuário
 numero = float(input("Digite um número: "))
 
 # Verificar se o número é maior que 10
