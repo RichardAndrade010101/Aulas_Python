@@ -22,7 +22,7 @@ else:
 print(True and False and True)
 print(True and True and True)
 print(True and 0 and True)
-'''
+''''
 '''
 if 0 and 1:
     print(True and 1)
@@ -40,5 +40,13 @@ if 0 and 1:
 # print(True and 0 and True)
 
 #Operador lógico "not" usado para inverter expressões
+#usado para inverter expressões
 #not True = False
-#not False = True
+#not False = True 
+print(not True)  #False
+print(not False) #True
+
+senha = input('Digite sua senha: ')
+
+#if senha != '123456':
+ #   print('Senha incorreta.')
