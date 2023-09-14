@@ -11,3 +11,4 @@ nome = 'otávio'
 print('á' in nome)
 print('z' in nome)
 print('vio')
+print('foice')
